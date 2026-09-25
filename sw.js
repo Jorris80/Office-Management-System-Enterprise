@@ -1,6 +1,6 @@
 /* Service worker OMS Enterprise - mode offline.
    Ganti VERSI setiap kali index.html diperbarui agar cache lama dibuang. */
-const VERSI = 'oms-v3.0.0';
+const VERSI = 'oms-v3.1.0';
 const INTI = ['./', './index.html', './config.js', './manifest.webmanifest', './ikon.svg'];
 
 self.addEventListener('install', (e) => {
