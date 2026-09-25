@@ -1,0 +1,20 @@
+{
+  "name": "OMS Enterprise - Sistem Manajemen Kantor",
+  "short_name": "OMS",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#059669",
+  "description": "Persuratan, disposisi, persetujuan berjenjang, tugas SLA, HR, aset, dan kontrak.",
+  "icons": [
+    {
+      "src": "ikon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
